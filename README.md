@@ -7,7 +7,7 @@ AI for medical imaging, clinical decision support, and assistive technology.
 
 [![Website](https://img.shields.io/badge/Website-ahmedsal95.github.io-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://ahmedsal95.github.io/ahmedmsalaheldin/#home)
 [![Email](https://img.shields.io/badge/Email-ahmed.sal.bme%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmed.sal.bme@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-332_citations_·_h--index_10-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=lpmTQkMAAAAJ&view_op=list_works&sortby=pubdate)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-345_citations_·_h--index_10-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=lpmTQkMAAAAJ&view_op=list_works&sortby=pubdate)
 <!-- Add your real profile links, then uncomment:
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/YOUR-ORCID)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YOUR_PROFILE)
